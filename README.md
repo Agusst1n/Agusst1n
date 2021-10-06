@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center">:computer: <b>Full Stack Developer | DevOps Engineer</b> :computer:</p>
+<p align="center">:computer: <b>| Estudiante Fullstack |</b> :computer:</p>
 <hr>
 <p align="center">
 :zap:Mentor at <a href="https://github.com/nucba">Nucba</a>:zap: - :zap:Tutor at <a href="https://github.com/guayerd">Guayerd</a>:zap:
