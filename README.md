@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Agustín</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
+const who = {
+  name: "Christopher Altamirano",
+  city: "Buenos Aires, Argentina",
+  role: "frontEndDev",
+  energy: "full"
+};
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/agusst1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agusst1n" height="30" width="40" /></a>
