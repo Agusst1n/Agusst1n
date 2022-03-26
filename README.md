@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Agustín</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
+## Hi. I'm Agustín Godoy
+
+```js
 const who = {
-  name: "Christopher Altamirano",
+  name: "Agustín Godoy",
   city: "Buenos Aires, Argentina",
   role: "frontEndDev",
   energy: "full"
 };
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
