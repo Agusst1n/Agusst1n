@@ -7,7 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://c.tenor.com/bU_xhHb0YUMAAAAM/anime-retro-anime.gif" max-width=500px title="Hi, nice to meet you!">
+  <picture>
+    <source srcset="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_400.gifv" media="(max-width: 374px)">
+    <img src="https://c.tenor.com/bU_xhHb0YUMAAAAM/anime-retro-anime.gif" width=500px title="Hi, nice to meet you!">
+  </picture>
 </p>
 
 <!-- Socials (Icons from https://icons8.com/) -->
