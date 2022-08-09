@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://c.tenor.com/bU_xhHb0YUMAAAAM/anime-retro-anime.gif" width=500px title="Hi, nice to meet you!">
+  <img src="https://c.tenor.com/bU_xhHb0YUMAAAAM/anime-retro-anime.gif" max-width=500px title="Hi, nice to meet you!">
 </p>
 
 <!-- Socials (Icons from https://icons8.com/) -->
