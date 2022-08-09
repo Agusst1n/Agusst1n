@@ -1,95 +1,53 @@
-<p align="center"> 
- ✨ 𝑻𝒐𝒅𝒂𝒚'𝒔 𝒔𝒄𝒊𝒆𝒏𝒄𝒆 𝒇𝒊𝒄𝒕𝒊𝒐𝒏 𝒊𝒔 𝒕𝒐𝒎𝒐𝒓𝒓𝒐𝒘'𝒔 𝒆𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈. 🖥️
+<h1 align="center">Hi there! My name is Patrick Guo, thanks for visiting my profile :D</h1>
+
+<p align="right">
+  <a href="#">
+      <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=shpatrickguo&repo=github-visitors-badge&countColor=%237B1E7A">
+   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=500px title="Hi, nice to meet you!">
+</p>
 
-<p align="center"> 
+<!-- Socials (Icons from https://icons8.com/) -->
+<p align="center">
+  <a href="mailto:guopatrick.correspondence@gmail.com"><img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="gmail">
+  <a href="https://www.linkedin.com/in/patrickguo/"><img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="linkedin">
+  <a href="https://www.datacamp.com/profile/shpatrickguo"><img src="https://play-lh.googleusercontent.com/zIO-uuTBjFigUIswv_h9S0-wVIkno_obwannvzr7NrXbh_MXL_khqV7gEqBly6KXEi4=s360-rw" width="100" title="datacamp">
+  <a href="https://www.hackerrank.com/guopatrick"><img src="https://user-images.githubusercontent.com/70539478/157151091-e994f0a1-ae3c-4955-ade7-a005a202a52f.png" width="100" title="hackerrank">
+  <a href="https://open.spotify.com/user/12136002437?si=4e8d774530354a68"><img src="https://img.icons8.com/doodle/96/000000/spotify.png" width="100" title="spotify">
+  <a href="https://github.com/shpatrickguo"><img src="https://img.icons8.com/doodle/96/000000/github--v1.png" width="100" title="github">
+</p>
+
+<!-- Gifs found on GIPHY made by @devrock -->
+<p align="center">
+  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
+  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
+  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" title="node">
+  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
+  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
+  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
+  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
+  <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
+</p>
+
+<!-- Other Tools -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="50px" title="r">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50px" title="jupyter">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50px" title="django">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="50px" title="aws">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50px" title="google cloud">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50px" title="postgresql">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50px" title="mongodb">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px" title="java">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50px" title="npm">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg" width="50px" title="bootstrap">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" title="git">
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/ruby.svg" width="50px" title="ruby">
+</p>
   
-  <a href="https://www.linkedin.com/in/aryan-upa/">
-  <img align="left" alt="Aryan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a>
-  <a href="https://twitter.com/aryanupa"><img align="left" alt= "Aryan Upadhyay | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /> </a>
-  <a href="https://open.spotify.com/user/6n6a8g7h9uh751nabxzb8eja4">
-  <img align="left" alt="Aryan's Spotify" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" /> </a>
-  <img align="left" width="3%" src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif">
-   <img align="center" alt="CoderGuy" width="3%" src="https://www.csm.ornl.gov/~sheldon/ds/images/book_q.gif" >
-  <img align="right" src="https://komarev.com/ghpvc/?username=aryan-upa&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-upa" />
-  <img align="right" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <a href="https://www.instagram.com/aryan.upa/"> 
-    <img align="right" alt="Aryan's Instagran" src="https://img.shields.io/badge/-aryan.upa-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aryan.upa"> </a>
-  <br> <br>
-  <img align="center" width="100%" src="https://github.com/aryan-upa/aryan-upa/blob/358d2d130429583e52b6910bd9f493a482e4244f/uploads/GitBanner.gif">
-</p>
-
-```
-- 👋 Hi, I’m Aryan Upadhyay
-- 👀 I’m interested in Computers and Sciences.
-- 🌱 I’m currently learning everything that comes in my way, but particularly Computers. 😅
-- 🏫 I'm currently studying Data Structures and Algorithms through Java.
-- 💞️ I’m looking to collaborate in the field of Computational Sciences and Developoment of World Society.
-- 📫 You can reach me @ aryan.upadhyay_cs20@gla.ac.in or the mail in my Profile.
-```
-
-### My Github Stats:
-<!-- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=aryan-upa&show_icons=true&theme=aura"> <img align="right" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-upa&theme=aura">   -->
-
 <p align="center">
-<table>
-<tr>
-<td><img height="70%" src="https://github-readme-stats.vercel.app/api?username=aryan-upa&show_icons=true&theme=aura"/>
-<td><img height="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-upa&theme=aura&hide=CSS,HTML&langs_count=3"/>
-</tr>
-</table>
-<a href="http://www.github.com/aryan-upa"><img src="https://activity-graph.herokuapp.com/graph?username=aryan-upa&bg_color=1c1917&color=10b981&line=a855f7&point=10b981&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=shpatrickguo&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true">
 </p>
-
-
-### IDE/Editor (s) In Use:
-<img align="left" width="10%" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-<img align="left" width="10%" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
-<img align="left" width="10%" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-<img align="left" width="10%" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">
-<img align="left" width="13%" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<br>
-
-
-<!--- Flags --->
-### Languages and Tools:
-
-  <a href="https://www.cprogramming.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.geeksforgeeks.org/"> <img src="https://github.com/zumrudu-anka/zumrudu-anka/blob/0c76e7f5ca339abbaa0689c2c50454dbb6263b1d/images/problemSolving.png" alt="Problem Solving" width="40" height="40"/> </a> 
-  <a href="https://github.com/"> <img src="https://github.com/hussainweb/hussainweb/raw/main/icons/github.png" alt="git" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-   <br>
-
-
-### See me at:
-  <a href="https://codeforces.com/profile/Ary_upa"> <img align="left" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"> </a>
-  <a href="https://www.codechef.com/users/aryan_upa"> <img align="left" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"> </a> <br> <br>
-
-
-### Commits & Streak:
-<p align="left" >
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=aryan-upa&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&sideNums=A177FE&currStreakNum=A177FE&sideLabels=61FEC9&currStreakLabel=61FEC9&background=15141B&ring=61FEC9&fire=DD2727&stroke=DD5ACF&border=E4E2E2">
-</p>
-
-<br>
-<p align="center">
-  Any fool can write code that a computer can understand. Good programmers write code that humans can understand. <br>
-  - Martin Fowler <br>
-<img width="120%"  src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
-</p>
-
-
-<!---Un-Used--->
-
-<!-- <p width="100%">
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-upa&theme=aura"> <br>
-  </p>
- -->
-
-<!--- ![Aryan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-upa) --->
